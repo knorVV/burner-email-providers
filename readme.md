@@ -10,8 +10,11 @@ Please send a PR with any new ones you find.
 
 ### Free
 
-* [DEA Guard](https://www.deaguard.eu.org)
 * [Disposable](https://github.com/0x19/disposable)
 
+## Libraries
 
+### Elixir
+
+* [Burnex](https://github.com/Betree/burnex)
 
